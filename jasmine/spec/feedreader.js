@@ -99,7 +99,6 @@ $(function() {
         });
     });
 
-
     /* A new test suite named "New Feed Selection" */
     describe("New Feed Selection", function() {
 
